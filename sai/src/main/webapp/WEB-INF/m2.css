@@ -1,0 +1,73 @@
+*{
+    background-color :rgb(215, 185, 140);
+    font-size: 30px;
+}
+p{
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 30%;
+    padding-right : auto;
+    margin-bottom: 4px;
+    font-size: 40px;
+    background-color: aliceblue;
+    opacity : .7;
+    border-radius: 20px;
+    
+}
+form,fieldset,table,tr,td,sup,a,span,input,label,button{
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+textarea{
+    background-color: white;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+sup{
+    color: red;
+    font-size: medium;
+}
+form{
+    width: min-content;
+    margin : 30px auto 30px auto;
+    padding: 30px 30px 30px 30px;
+     background-image: url('https://images.pexels.com/photos/96627/pexels-photo-96627.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+fieldset{
+    opacity: .7;
+    border-radius: 10px;
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom : 20px;
+    padding-right: 150px;
+    }
+input,textarea{
+    margin-left: 20px;
+}
+
+button,a{
+    border: 1px solid black;
+    margin-left : 60px;
+    border-radius: 15px;
+    padding  : 12px 25px 12px 25px;
+    color : rgb(248, 245, 245);
+    background-color: rgb(33, 68, 225);
+}
+#btn{
+    padding : 12px 30px 12px 30px;
+}
+table,legend{
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    padding: 0;
+}
+#gender{
+    font-size: 24px;
+}

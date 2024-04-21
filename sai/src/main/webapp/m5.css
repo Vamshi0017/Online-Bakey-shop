@@ -1,0 +1,19 @@
+*{
+    background-image: linear-gradient(to right, red,white,blue,green,yellow);
+}
+p,pre,b{
+    background-image: linear-gradient(to right,rgb(230, 171, 171),rgb(207, 226, 144));
+    width : 70%;
+    margin : auto;
+    text-align: justify;
+    overflow: scroll;
+
+}
+h1{
+    margin-left: 50px;
+    color : white;
+}
+footer{
+    position : relative;
+    top : 20px;
+}
